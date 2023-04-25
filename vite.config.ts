@@ -3,6 +3,6 @@ import { defineConfig } from "vite";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "https://dannielnavas.github.io/",
+  base: "https://dannielnavas.github.io/github-actions/",
   plugins: [react()],
 });
